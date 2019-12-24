@@ -1,3 +1,7 @@
 Library
 Logs
 Temp
+obj
+/Assembly-CSharp.csproj
+/GameGearsGracevaleTest.sln
+/.vs
